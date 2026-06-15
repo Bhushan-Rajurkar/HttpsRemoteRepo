@@ -21,12 +21,12 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
         
-        /* body {
+        body {
             background-color: var(--primary);
             color: var(--text);
             line-height: 1.6;
             overflow-x: hidden;
-        } */
+        }
         
         /* Scrollbar */
         ::-webkit-scrollbar {
